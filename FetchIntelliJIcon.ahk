@@ -1,4 +1,5 @@
 #Requires AutoHotkey v2.0
+;@SetVersion 1.0.0
 
 ; Copies the icon of the newest installed IntelliJ IDEA as OpenInIDE.ico into the folder of this script.
 ; It is used as icon of OpenInIDE.exe the next time that script is compiled (otherwise

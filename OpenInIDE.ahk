@@ -2,7 +2,7 @@
 ;@Ahk2Exe-Base ..\v2\AutoHotkey64.exe
 ; ---------------------------------------------------------------------------
 ;@Ahk2Exe-SetProductName    OpenInIDE
-;@Ahk2Exe-SetVersion        0.0.1
+;@Ahk2Exe-SetVersion        1.0.0
 ;@Ahk2Exe-SetDescription    Open folder or associated project in IntelliJ IDEA
 ;@Ahk2Exe-SetLanguage       0x0409
 ;@Ahk2Exe-SetCopyright      © 2026 Kumpewo

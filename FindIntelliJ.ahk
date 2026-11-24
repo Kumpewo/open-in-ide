@@ -1,4 +1,5 @@
 #Requires AutoHotkey v2.0
+;@SetVersion 1.0.0
 
 ; The only place that knows where the IDE is installed: change it here to use another IDE.
 

@@ -1,4 +1,5 @@
 #Requires AutoHotkey v2.0
+;@SetVersion 1.0.0
 
 ; Asks for the folder of OpenInIDE.exe and the name of the menu entry and writes two files into the
 ; folder of this script: one that adds the entry to the context menu of files and folders, and one
