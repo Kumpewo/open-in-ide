@@ -1,0 +1,24 @@
+OpenInIDE.ico
+
+# Written by WriteInstallReg.ahk (contains a local path)
+*.reg
+
+# Build
+*.exe
+*.log
+
+# Editor/IDE
+.idea/
+.vscode/
+*.iml
+
+# Backup and temp files
+*.bak
+*.tmp
+*~
+~$*
+
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
